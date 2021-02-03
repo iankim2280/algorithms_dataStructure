@@ -1,24 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-
-<body>
-    <script>
-        /*
+/*
             Logarithms
             common complexities: O(1), O(n), O(n^2)
             Sometimes big o expressions involve more complex mathematical expressions
             one that appears more often than you might like is the logarithm!
             
-
         */
-
-    </script>
-</body>
-
-</html>
